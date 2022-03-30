@@ -36,7 +36,12 @@
 
 # CMake related
 cmake-build-debug
-CMakeLists.txt
+.cache/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+compile_commands.json
 
 # DS_STORE
 .DS_STORE
